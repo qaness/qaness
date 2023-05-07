@@ -1,7 +1,7 @@
 ![Header](https://github.com/qaness/qaness/blob/main/assets/header%20qaness%20green.svg)
 
 ## About me
-Hi, I'm a manual software testing engineer with over 2 years of experience in the field. I have a strong passion for ensuring the quality of software products. 
+Hi, everyone. I'm a manual software testing engineer with over 2 years of experience in the field. I have a strong passion for ensuring the quality of software products. 
 
 On my Github profile, you can find examples of my testing artifacts and educational projects related to test automation. I'm always happy to receive feedback or answer any questions about my projects.
 
@@ -15,7 +15,7 @@ On my Github profile, you can find examples of my testing artifacts and educatio
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-000?style=plastic&logo=JAVASCRIPT&logoColor=)
 ![TS](https://img.shields.io/badge/-TypeScript-000?style=plastic&logo=typescript&logoColor=)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=plastic&logo=SQL&logoColor=)
-![Cypress](https://img.shields.io/badge/-Cypress-000?style=plastic&logo=?logo=data:assets/Cy_logo.png)
+![Cypress](https://img.shields.io/badge/-Cypress-000?style=plastic&logo=cypress)
 ![JiRA](https://img.shields.io/badge/Jira-090909?style=plastic&logo=jira&logoColor=136be1)
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=plastic&logo=swagger&logoColor=7ede2b)
 ![Github](https://img.shields.io/badge/Github-090909?style=plastic&logo=github&logoColor=8cc4d7)
